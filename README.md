@@ -1,2 +1,3 @@
 # getdist_tools
-Library contains helper modules to pack MCMC samples output by popular sampling frameworks into a getdist-friendly format. Also supports Bayesian model comparison, A/B testing
+This library contains helpers to pack Monte Carlo Markov Chain samples output by popular sampling frameworks into a [getdist](https://github.com/cmbant/getdist)-MCMC chain format, plus helpers to perform Bayesian model comparison with `getdist` chains.
+ 
